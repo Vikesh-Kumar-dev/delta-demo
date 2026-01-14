@@ -1,0 +1,4 @@
+# clone-> to be copied for respository
+# status-> track changes in github
+  -> stages of status => untracked->unmodified->modified ->staged -> commit
+#add -> to add files with repository 
